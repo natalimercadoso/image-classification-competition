@@ -1,1 +1,9 @@
-pickle 
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+torch
+torchvision
