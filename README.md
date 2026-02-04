@@ -1,4 +1,4 @@
-```md
+
 # Image Classification Competition
 
 This repository documents a structured exploration and evaluation of classical machine learning and deep learning models for a five-class image classification task.
@@ -111,6 +111,5 @@ The project achieved a **13th place ranking** on the Kaggle leaderboard.
 
 A detailed technical report describing the experimental setup, model comparisons, and analysis
 is available in the `report/` directory.
-```
 
 >>>>>>> 
