@@ -101,7 +101,7 @@ Upload `cnn_from_scratch.ipynb` to Google Colab to execute the deep learning exp
 ## Academic Context
 
 This project was developed as part of **IFT6390 – Fondements de l’apprentissage machine**  
-at the **Université de Montréal**, and corresponds to the second image classification competition of the course.
+at the **Université de Montréal**, and corresponds to the second competition of the course.
 
 The project achieved a **13th place ranking** on the Kaggle leaderboard.
 
