@@ -49,9 +49,14 @@ The codebase is organized into the following main components:
 
 ### Deep Learning Implementation
 
-- **`cnn_from_scratch.ipynb`**  
-  A standalone notebook implementing a Convolutional Neural Network (CNN) from scratch.  
-  Designed to run in **Google Colab**, this notebook explores a deep learning approach while preserving the spatial structure of the images.
+- **`cnn_from_scratch.ipynb`**
+A standalone notebook implementing a custom Convolutional Neural Network (CNN) from scratch.  
+The architecture, **SmallRGBNet**, is inspired by **VGG-style CNNs**, following the design principle of stacking
+3×3 convolutions with ReLU activations and periodic 2×2 max pooling while progressively increasing the number
+of feature channels as spatial resolution decreases.
+
+The notebook is designed to run in **Google Colab** and explores a deep learning approach while preserving
+the spatial structure of the images.
 
 ---
 
